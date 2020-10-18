@@ -45,7 +45,7 @@
 
 [Snazzy Operator](https://marketplace.visualstudio.com/items?itemName=aaronthomas.vscode-snazzy-operator) -  A dark theme for Visual Studio Code.
 
-## Other
+## Other 🧰
 [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - A port of DotENV for vscode.
 
 [Open file From Path](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - Simple plugin for VS Code that allows you to quickly open file starting from path string. E.g.
